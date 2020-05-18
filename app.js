@@ -22,3 +22,16 @@ checkAge('James', 18)
 checkAge('Abby', 27)
 checkAge('John', 17)
 
+let favoriteVeggies = ['squash', 'brussel sprouts', 'corn', 'green beans', 'asparagus'];
+
+
+for (let i = 0; i < favoriteVeggies.length; ++i) {
+    console.log(favoriteVeggies)
+
+}
+
+let pet = {
+    name: 'Ham',
+    breed: 'Bully'
+};
+console.log(pet);
